@@ -2,6 +2,10 @@
 
 <img width="200" src=hey.png>
 
+## Organizations
+
+[`kutchie-pelaez-packages`](https://github.com/kutchie-pelaez-packages)
+
 ## About me
 
 ```swift
@@ -22,7 +26,7 @@ let me = Developer(
 
 ```swift
 let projects: [Project] = [
-    .organisation(
+    .organization(
         name: "Swift packages",
         link: "https://github.com/kutchie-pelaez-packages",
         description: "Set of small packages I use in several pet projects"
