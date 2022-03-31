@@ -12,8 +12,11 @@
 let me = Developer(
     about: About(
         name: "Ivan Kulikov",
-        company: "Bolt",
-        location: "Tallinn, Estonia"
+        company: Company(
+            name: "Bolt",
+            location: "Tallinn, Estonia",
+            role: "iOS engineer"
+        )
     ),
     contacts: Contacts(
         telegram: "@kutchie_pelaez",
