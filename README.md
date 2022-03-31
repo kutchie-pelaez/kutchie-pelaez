@@ -37,7 +37,7 @@ let projects: [Project] = [
     .tool(
         name: "pkgen",
         link: "https://github.com/kutchie-pelaez/pkgen",
-        description: "Tool to simplify SMP packages description"
+        description: "Tool to simplify swift packages description"
     ),
     .tool(
         name: "wsgen",
