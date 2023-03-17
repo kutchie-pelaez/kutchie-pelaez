@@ -9,7 +9,7 @@ let me = SowtwareEngineer(
         company: Company(
             name: "Bolt",
             location: "Tallinn, Estonia",
-            role: "iOS Sowtware Engineer"
+            role: "Sowtware Engineer"
         )
     ),
     contacts: Contacts(
